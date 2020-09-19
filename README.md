@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="left">
+<img alt="githubstatus" height='230' src="https://github-readme-stats.vercel.app/api?username=NJUBroccoli&show_icons=true&layout=compact">
+<img alt="githubstatus" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJUBroccoli&hide=javascript,html">
+</p>
+
 <!--
 **NJUBroccoli/NJUBroccoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
