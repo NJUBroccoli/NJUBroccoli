@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NJUBroccoli)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Broccoli's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NJUBroccoli)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **NJUBroccoli/NJUBroccoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
